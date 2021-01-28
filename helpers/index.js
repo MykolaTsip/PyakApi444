@@ -1,0 +1,6 @@
+module.exports.heshPass = require('./hesh-pass')
+module.exports.comparePass = require('./compare-pass')
+module.exports.tokinazer = require('./tokinazer')
+module.exports.tokenActivateAccount = require('./tokenActivate')
+module.exports.saveAvatar = require('./save-avatar.helper')
+module.exports.emailSender = require('./email-sender.helper')

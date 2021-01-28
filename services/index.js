@@ -1,0 +1,7 @@
+module.exports.userService = require('./user.service')
+module.exports.zakladService = require('./zaklad.service')
+module.exports.commentService = require('./comment.service')
+module.exports.emailService = require('./email.service')
+module.exports.newsPaperService = require('./newspaper.service')
+module.exports.ratingService = require('./rating.service')
+module.exports.tokens = require('./token')

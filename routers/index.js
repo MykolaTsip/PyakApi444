@@ -1,0 +1,6 @@
+module.exports.userRouter = require('./user.router')
+module.exports.zakladRouter = require('./zaklad.router')
+module.exports.commentRouter = require('./comment.router')
+module.exports.newspaperRouter = require('./newspaper.router')
+module.exports.ratingRouter = require('./rating.router')
+module.exports.refreshTokenRouter = require('./refresh-token.router')
